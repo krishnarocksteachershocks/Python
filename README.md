@@ -1,2 +1,3 @@
 # Python
-Python codes learnt in class
+This repository contains the python codes learnt in class.
+Learning different things in python is fun...
